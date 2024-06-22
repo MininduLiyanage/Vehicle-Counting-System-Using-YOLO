@@ -7,4 +7,4 @@ This project utilizes the YOLO (You Only Look Once) object detection model to co
 This project utilizes a YOLO-based object detection model, YOLOv8-L (Large) to detect vehicles.
 
 ## dependencies
-The sort module is used to track vehicles. It can be downloaded from this repository. https://github.com/abewley/sort
+The sort module is used to track vehicles. It is a simple online and real-time tracking algorithm for 2D multiple object tracking in video sequences. It can be downloaded from this repository. https://github.com/abewley/sort
